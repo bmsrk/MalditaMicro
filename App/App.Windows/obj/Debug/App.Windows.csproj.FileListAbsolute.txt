@@ -1,0 +1,11 @@
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\App.Windows.csprojResolveAssemblyReference.cache
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\App.g.i.cs
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\App.g.cs
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\MainPage.g.cs
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\App.xaml
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\MainPage.xaml
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\App.xbf
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\MainPage.xbf
+c:\users\brunoservulo\documents\visual studio 2015\Projects\MalditaMicro\App\App.Windows\obj\Debug\XamlSaveStateFile.xml

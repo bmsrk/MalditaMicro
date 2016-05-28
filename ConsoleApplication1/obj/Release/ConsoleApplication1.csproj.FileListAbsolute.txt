@@ -1,0 +1,13 @@
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\App.dll
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\App.pdb
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\BrunoServulo\documents\visual studio 2015\Projects\MalditaMicro\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.ConsultaParadero">
+  <Grid BackgroundColor="#141313">
+    <Grid.Padding>
+      8,2,2,2
+    </Grid.Padding>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="40"/>
+    </Grid.RowDefinitions>
+    <Label Text="Código:" FontSize="Small" TextColor="Silver" VerticalTextAlignment="Center" HorizontalTextAlignment="End" Grid.Column="0" Grid.Row="0"/>
+    <Entry x:Name="CodigoParadero" Keyboard="Text" HorizontalTextAlignment="Center" Placeholder="PD616" Completed="OnEntryCompleted" Grid.Column="1" Grid.Row="0" />
+    <Label x:Name="NombreParadero" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="3" TextColor="White" FontAttributes="Bold"/>
+    <ListView x:Name="Micros" SeparatorVisibility="Default" SeparatorColor="Silver" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" BackgroundColor="#191816">
+      <ListView.Header>
+        <Grid Padding="20, 0, 0, 0">
+          <Label Grid.Column="0" Text="Número" />
+          <Label Grid.Column="1" Text="Mensaje" Grid.ColumnSpan="2" />
+          <Label Grid.Column="3" Text="Distancia"  HorizontalTextAlignment="Center" />
+        </Grid>
+      </ListView.Header>
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <Grid Padding="10, 0, 0, 0">
+              <Label Grid.Column="0" Text="{Binding Servicio}" FontSize="30" FontAttributes="Bold" TextColor="Aqua" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+              <Label Grid.Column="1" Text="{Binding Mensaje}" Grid.ColumnSpan="2" VerticalTextAlignment="Center"/>
+              <Label Grid.Column="3" Text="{Binding Distancia}" VerticalTextAlignment="Center" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            </Grid>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </Grid>
+</ContentPage>

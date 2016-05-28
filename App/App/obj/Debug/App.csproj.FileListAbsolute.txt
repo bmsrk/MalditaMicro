@@ -1,0 +1,16 @@
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\App.dll
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\App.pdb
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.ConsultaParadero.xaml.g.cs
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.dll
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.pdb
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.dll.mdb
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\App.dll.mdb
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.Views.ConsultaParadero.xaml.g.cs
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\obj\Debug\App.dll.mdb
+C:\Users\brunoservulo\Documents\Visual Studio 2015\Projects\MalditaMicro\App\App\bin\Debug\App.dll.mdb
